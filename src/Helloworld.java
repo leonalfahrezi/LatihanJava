@@ -9,4 +9,8 @@ public class Helloworld {
         return 0;
     }
 
+    public static String fiturB() {
+        return "fitur b";
+    }
+
 }
