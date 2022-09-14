@@ -12,4 +12,5 @@ public class Helloworld {
     public static String fiturB() {
         return "fitur b";
     }
+
 }
